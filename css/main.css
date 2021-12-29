@@ -75,10 +75,6 @@ a.two:active {
     justify-content: flex-start;
     margin: 5px;
 }
-.wheretofindus-content{
-    display: flex;
-    flex-wrap: wrap;
-}
 .content-images {
     display: flex;
     justify-content: flex-end;
