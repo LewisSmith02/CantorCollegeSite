@@ -65,6 +65,16 @@ a.two:hover {
 a.two:active {
     text-decoration: underline;
 }
+a.three:link{
+    color: white;
+}
+a.three:active{
+    text-decoration: none;
+}
+a.three:visited{
+    color: white;
+    text-decoration: none;
+}
 
 .content {
     padding: 20px;
