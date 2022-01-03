@@ -184,3 +184,12 @@ course{
  flex-wrap: wrap;
  padding: 20px;
 }
+
+#email{
+    background-color: #333333;
+    color: white;
+}
+#subscribe{
+    color: white;
+    background-color: #333333;
+}
