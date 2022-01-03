@@ -90,6 +90,10 @@ a.three:visited{
     justify-content: flex-end;
     flex-direction: row;
 }
+.content-list{
+    display: flex;
+    justify-content: center;
+}
 
 header{
     display: flex;
@@ -98,6 +102,10 @@ header{
     gap: 15px;
 }
 
+.slideshow-header {
+    display: flex;
+    justify-content: center;
+}
 
 .study-about{
     display: flex;
@@ -194,11 +202,9 @@ course{
     background-color: #333333;
 }
 
-
-
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 1090px;
   position: relative;
   margin: auto;
 }
@@ -237,7 +243,16 @@ course{
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: #000000;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.text-white {
+    color: #efece7;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
