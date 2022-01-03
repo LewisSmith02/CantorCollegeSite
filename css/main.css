@@ -204,7 +204,7 @@ course{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1090px;
+  max-width: 1190px;
   position: relative;
   margin: auto;
 }
@@ -267,7 +267,9 @@ course{
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
-  top: 0;
+  text-align: center;
+  width: 100%;
+  top: 0px;
 }
 
 /* The dots/bullets/indicators */
