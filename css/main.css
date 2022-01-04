@@ -97,8 +97,12 @@ a.three:visited{
 .content-facilities{
     display: flex;
     margin: 20px;
-    display: flex;
     text-align: center;
+    flex-wrap: wrap;
+}
+.content-colourpicker{
+    display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
