@@ -195,15 +195,6 @@ course{
  padding: 20px;
 }
 
-#email{
-    background-color: #333333;
-    color: white;
-}
-#subscribe{
-    color: white;
-    background-color: #333333;
-}
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 1190px;
